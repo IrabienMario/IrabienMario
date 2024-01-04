@@ -1,4 +1,4 @@
-# About my self.
+# About myself.
 
 
 Hello, I'm Mario Irabien, a dedicated student at the Universidad Autónoma de Yucatán, actively involved in developing innovative projects to elevate my programming skills. I am eager to embrace new challenges and seek diverse experiences. Presently, I am immersed in personal software projects, aiming to refine my expertise.

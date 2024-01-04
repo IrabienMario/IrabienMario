@@ -8,7 +8,7 @@ This project is academically oriented, focusing on the development of a software
 
 The project unfolds across three iterations, with the initial phase dedicated to documentation and subsequent iterations focused on updates and coding. For a more detailed overview, please explore the repository here.
 
-[Link to My Repository]([https://github.com/IrabienMario/Pruebas-de-repos](https://github.com/IrabienMario/POOProject))
+[Link to My Repository](https://github.com/IrabienMario/POOProject)
 
 ## Curent Project
 

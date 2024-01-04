@@ -7,7 +7,7 @@ I characterize myself as an individual committed to continuous self-improvement,
 
 I also hold an English certification, attaining a B2 level certified by Oxford Academy. In addition to this, I possess various certifications validating my diverse skill set. Feel free to explore the certifications folder within this branch for further details.
 
-Feel free to explore more about me and the projects I've developed by checking out the various branches of the repository.
+Feel free to explore more about me and the projects I've developed by checking out the various folders of the repository.
 <!---
 IrabienMario/IrabienMario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
